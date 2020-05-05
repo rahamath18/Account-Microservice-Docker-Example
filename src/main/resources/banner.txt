@@ -1,0 +1,20 @@
+
+
+			Account Microservice Example Development using SpringBoot 2.2.2, Hibernate 5.1.0, MySql 5.7.12, and Docker 19.03.8 
+			
+				### Used technology stack in this example
+
+				1. Java 8
+				2. Apache Maven 3.5.4
+				3. SpringBoot 2.2.2
+				4. Hibernate Annotations 5.1.0
+				5. Hibernate Core 5.4.9
+				6. Hibernate Validator 6.0.18
+				7. MySql 5.7.12
+				8. Docker Version: 19.03.8 - https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+				9. Postman Version 7.14.0
+			
+			##################################################################################################################
+							
+							
+													
